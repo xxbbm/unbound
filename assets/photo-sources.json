@@ -1,0 +1,308 @@
+[
+  {
+    "id": "iPhone6,1",
+    "name": "iPhone 5s",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
+    "file": "iPhone6_1.png"
+  },
+  {
+    "id": "iPhone6,2",
+    "name": "iPhone 5s",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
+    "file": "iPhone6_2.png"
+  },
+  {
+    "id": "iPhone7,1",
+    "name": "iPhone 6 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
+    "file": "iPhone7_1.png"
+  },
+  {
+    "id": "iPhone7,2",
+    "name": "iPhone 6",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
+    "file": "iPhone7_2.png"
+  },
+  {
+    "id": "iPhone8,1",
+    "name": "iPhone 6s",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
+    "file": "iPhone8_1.png"
+  },
+  {
+    "id": "iPhone8,2",
+    "name": "iPhone 6s Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
+    "file": "iPhone8_2.png"
+  },
+  {
+    "id": "iPhone8,4",
+    "name": "iPhone SE (1st generation)",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
+    "file": "iPhone8_4.png"
+  },
+  {
+    "id": "iPhone9,1",
+    "name": "iPhone 7",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
+    "file": "iPhone9_1.png"
+  },
+  {
+    "id": "iPhone9,2",
+    "name": "iPhone 7 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
+    "file": "iPhone9_2.png"
+  },
+  {
+    "id": "iPhone9,3",
+    "name": "iPhone 7",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
+    "file": "iPhone9_3.png"
+  },
+  {
+    "id": "iPhone9,4",
+    "name": "iPhone 7 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
+    "file": "iPhone9_4.png"
+  },
+  {
+    "id": "iPhone10,1",
+    "name": "iPhone 8",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
+    "file": "iPhone10_1.png"
+  },
+  {
+    "id": "iPhone10,3",
+    "name": "iPhone X",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-x-colors.jpg",
+    "file": "iPhone10_3.png"
+  },
+  {
+    "id": "iPhone10,4",
+    "name": "iPhone 8",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
+    "file": "iPhone10_4.png"
+  },
+  {
+    "id": "iPhone10,2",
+    "name": "iPhone 8 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
+    "file": "iPhone10_2.png"
+  },
+  {
+    "id": "iPhone10,5",
+    "name": "iPhone 8 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
+    "file": "iPhone10_5.png"
+  },
+  {
+    "id": "iPhone10,6",
+    "name": "iPhone X",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-x-colors.jpg",
+    "file": "iPhone10_6.png"
+  },
+  {
+    "id": "iPhone11,8",
+    "name": "iPhone XR",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
+    "file": "iPhone11_8.png"
+  },
+  {
+    "id": "iPhone11,2",
+    "name": "iPhone XS",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-colors.jpg",
+    "file": "iPhone11_2.png"
+  },
+  {
+    "id": "iPhone11,4",
+    "name": "iPhone XS Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
+    "file": "iPhone11_4.png"
+  },
+  {
+    "id": "iPhone11,6",
+    "name": "iPhone XS Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
+    "file": "iPhone11_6.png"
+  },
+  {
+    "id": "iPhone12,1",
+    "name": "iPhone 11",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
+    "file": "iPhone12_1.png"
+  },
+  {
+    "id": "iPhone12,3",
+    "name": "iPhone 11 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
+    "file": "iPhone12_3.png"
+  },
+  {
+    "id": "iPhone12,5",
+    "name": "iPhone 11 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
+    "file": "iPhone12_5.png"
+  },
+  {
+    "id": "iPhone13,1",
+    "name": "iPhone 12 mini",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
+    "file": "iPhone13_1.png"
+  },
+  {
+    "id": "iPhone13,2",
+    "name": "iPhone 12",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
+    "file": "iPhone13_2.png"
+  },
+  {
+    "id": "iPhone13,3",
+    "name": "iPhone 12 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
+    "file": "iPhone13_3.png"
+  },
+  {
+    "id": "iPhone13,4",
+    "name": "iPhone 12 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
+    "file": "iPhone13_4.png"
+  },
+  {
+    "id": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
+    "file": "iPhone14_4.png"
+  },
+  {
+    "id": "iPhone14,5",
+    "name": "iPhone 13",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
+    "file": "iPhone14_5.png"
+  },
+  {
+    "id": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
+    "file": "iPhone14_2.png"
+  },
+  {
+    "id": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
+    "file": "iPhone14_3.png"
+  },
+  {
+    "id": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
+    "file": "iPhone14_6.png"
+  },
+  {
+    "id": "iPhone14,7",
+    "name": "iPhone 14",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
+    "file": "iPhone14_7.png"
+  },
+  {
+    "id": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
+    "file": "iPhone14_8.png"
+  },
+  {
+    "id": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
+    "file": "iPhone15_2.png"
+  },
+  {
+    "id": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
+    "file": "iPhone15_3.png"
+  },
+  {
+    "id": "iPhone15,4",
+    "name": "iPhone 15",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
+    "file": "iPhone15_4.png"
+  },
+  {
+    "id": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
+    "file": "iPhone15_5.png"
+  },
+  {
+    "id": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
+    "file": "iPhone16_1.png"
+  },
+  {
+    "id": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
+    "file": "iPhone16_2.png"
+  },
+  {
+    "id": "iPhone17,3",
+    "name": "iPhone 16",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
+    "file": "iPhone17_3.png"
+  },
+  {
+    "id": "iPhone17,4",
+    "name": "iPhone 16 Plus",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
+    "file": "iPhone17_4.png"
+  },
+  {
+    "id": "iPhone17,1",
+    "name": "iPhone 16 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
+    "file": "iPhone17_1.png"
+  },
+  {
+    "id": "iPhone17,2",
+    "name": "iPhone 16 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
+    "file": "iPhone17_2.png"
+  },
+  {
+    "id": "iPhone17,5",
+    "name": "iPhone 16e",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
+    "file": "iPhone17_5.png"
+  },
+  {
+    "id": "iPhone18,3",
+    "name": "iPhone 17",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
+    "file": "iPhone18_3.png"
+  },
+  {
+    "id": "iPhone18,4",
+    "name": "iPhone Air",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
+    "file": "iPhone18_4.png"
+  },
+  {
+    "id": "iPhone18,1",
+    "name": "iPhone 17 Pro",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
+    "file": "iPhone18_1.png"
+  },
+  {
+    "id": "iPhone18,2",
+    "name": "iPhone 17 Pro Max",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
+    "file": "iPhone18_2.png"
+  },
+  {
+    "id": "iPhone18,5",
+    "name": "iPhone 17e",
+    "url": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17e/iphone-17e-colors.png",
+    "file": "iPhone18_5.png"
+  }
+]

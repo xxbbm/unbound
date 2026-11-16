@@ -1,0 +1,29 @@
+﻿[package]
+name = "apple-toolkit"
+version = "1.0.1"
+edition = "2021"
+default-run = "apple-toolkit"
+
+[dependencies]
+eframe = { version = "=0.31.1", default-features = false, features = ["default_fonts", "glow", "x11", "wayland"] }
+rfd = "0.15"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+directories = "6"
+plist = "1.8"
+sha2 = "0.10"
+# 配置锁绕过用到的 AES-CBC（HKDF/HMAC 复用 sha2 手写，避免引入多套哈希实现）
+aes = "0.8"
+# 信封随机数必须来自操作系统，不能用时间戳凑
+getrandom = "0.2"
+zip = { version = "2.4", default-features = false, features = ["deflate"] }
+libloading = "0.8"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "tiff"] }
+time = {version="0.3",features=["formatting","local-offset"]}
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[[bin]]
+name = "toolkit-demo"
+path = "src/bin/demo.rs"
