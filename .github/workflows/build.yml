@@ -1,0 +1,36 @@
+name: desktop
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, macos-14]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - run: cargo fmt --all -- --check
+      - run: cargo clippy --locked --all-targets -- -D warnings
+      - run: cargo test --locked --all-targets
+      - run: cargo build --locked --release --bins
+      - name: Assemble Windows
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item target/release/apple-toolkit.exe dist/
+          Copy-Item README.md dist/
+      - name: Assemble macOS
+        if: runner.os == 'macOS'
+        run: |
+          mkdir -p dist
+          cp target/release/apple-toolkit dist/
+          cp README.md dist/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: apple-toolkit-${{ matrix.os }}
+          path: dist/
+
